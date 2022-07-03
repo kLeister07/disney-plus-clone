@@ -14,7 +14,7 @@ useEffect(()=>{
   })
 }, [])
 
-
+//hi
   return (
     <Container>
        <ImgSlider />
